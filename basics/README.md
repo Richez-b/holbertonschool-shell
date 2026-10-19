@@ -1,37 +1,51 @@
 # Shell Basics
 
-This project introduces basic Linux shell commands, file management, directory navigation, permissions, and symbolic links.
+![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Holberton](https://img.shields.io/badge/Project-Holberton-007ACC)
+![Tasks](https://img.shields.io/badge/Tasks-18-purple)
+
+## About
+
+This project introduces basic Linux shell commands, directory navigation, file management, and symbolic links.
 
 ## Scripts
 
-- **0-current_working_directory**: Prints the absolute path of the current working directory.
-- **1-listit**: Displays the contents of the current directory.
-- **2-bring_me_home**: Changes the working directory to the user's home directory.
-- **3-listfiles**: Displays the contents of the current directory in long format.
-- **4-listmorefiles**: Displays all files, including hidden files, in long format.
-- **5-listfilesdigitonly**: Displays all files in long format with numeric user and group IDs.
-- **6-firstdirectory**: Creates a directory named `my_first_directory` in `/tmp`.
-- **7-movethatfile**: Moves the file `betty` from `/tmp` to `/tmp/my_first_directory`.
-- **8-firstdelete**: Deletes the file `betty` from `/tmp/my_first_directory`.
-- **9-firstdirdeletion**: Deletes the directory `/tmp/my_first_directory`.
-- **10-back**: Changes the working directory to the previous directory.
-- **11-lists**: Lists all files, including hidden files, in the current directory, parent directory, and `/boot`, in long format.
-- **12-file_type**: Displays the type of the file `/tmp/iamafile`.
-- **13-symbolic_link**: Creates a symbolic link named `__ls__` pointing to `/bin/ls`.
-- **14-copy_html**: Copies HTML files to the parent directory if they do not exist there or are newer than the existing versions.
-- **15-lets_move**: Moves all files beginning with an uppercase letter to `/tmp/u`.
-- **16-clean_emacs**: Deletes all files in the current directory whose names end with `~`.
-- **17-tree**: Creates the nested directories `welcome/to/school`.
+| Script | Description |
+|---|---|
+| `0-current_working_directory` | Prints the absolute path of the current working directory. |
+| `1-listit` | Lists the contents of the current directory. |
+| `2-bring_me_home` | Changes to the home directory. |
+| `3-listfiles` | Lists files in long format. |
+| `4-listmorefiles` | Lists all files, including hidden files. |
+| `5-listfilesdigitonly` | Lists files with numeric user and group IDs. |
+| `6-firstdirectory` | Creates `/tmp/my_first_directory`. |
+| `7-movethatfile` | Moves `betty` to `/tmp/my_first_directory`. |
+| `8-firstdelete` | Deletes the file `betty`. |
+| `9-firstdirdeletion` | Deletes `/tmp/my_first_directory`. |
+| `10-back` | Returns to the previous directory. |
+| `11-lists` | Lists files in `.`, `..`, and `/boot`. |
+| `12-file_type` | Displays the type of `/tmp/iamafile`. |
+| `13-symbolic_link` | Creates a symbolic link to `/bin/ls`. |
+| `14-copy_html` | Copies new or updated HTML files to the parent directory. |
+| `15-lets_move` | Moves files starting with uppercase letters to `/tmp/u`. |
+| `16-clean_emacs` | Removes files ending with `~`. |
+| `17-tree` | Creates the directories `welcome/to/school`. |
 
-## Requirements
+## Example task 17
 
-- All scripts are written for Bash.
-- All scripts start with `#!/bin/bash`.
-- All scripts contain exactly two lines.
-- All scripts are executable.
-- Scripts are tested on Ubuntu Linux.
+```bash
+#!/bin/bash
+mkdir -p welcome/to/school
+```
 
-## Repository
+## Environment
 
-- **Repository:** `holbertonschool-shell`
-- **Directory:** `basics`
+- Ubuntu Linux
+- Bash
+- Git and GitHub
+
+---
+
+**Repository:** `holbertonschool-shell`  
+**Directory:** `basics`
