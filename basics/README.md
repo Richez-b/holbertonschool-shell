@@ -1,5 +1,9 @@
 # Shell Basics
 
+🌐 **Language / Langue**
+
+🇬🇧 [English](README.md) | 🇫🇷 [Français](README.fr.md)
+
 ![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Holberton](https://img.shields.io/badge/Project-Holberton-007ACC)
