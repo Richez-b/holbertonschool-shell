@@ -104,3 +104,5 @@ Chaque script Bash commence par :
 
 **Dépôt :** `holbertonschool-shell`  
 **Répertoire :** `basics`
+
+### 📝 Cette documentation a été rédigée et structurée avec l'aide de l'intelligence artificielle
