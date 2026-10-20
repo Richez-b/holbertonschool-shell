@@ -255,3 +255,5 @@ La réalisation de ces exercices permet de renforcer les connaissances suivantes
 **Dépôt :** `holbertonschool-shell`  
 **Répertoire :** `io_redirections_and_filters`  
 **Projet :** Shell — Redirections d'entrées/sorties et filtres
+
+### 📝 Cette documentation a été rédigée et structurée avec l'aide de l'intelligence artificielle
