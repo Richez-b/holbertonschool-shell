@@ -106,7 +106,7 @@ io_redirections_and_filters/
 
 | Script | Description |
 |---|---|
-| `0-hello_world` | Affiche `Hello, World` suivi d'un retour à la ligne. |
+| [`0-hello_world`](./0-hello_world) | Affiche `Hello, World` suivi d'un retour à la ligne. |
 | `1-confused_smiley` | Affiche un smiley contenant des caractères spéciaux. |
 | `2-hellofile` | Affiche le contenu du fichier `/etc/passwd`. |
 | `3-twofiles` | Affiche le contenu de `/etc/passwd` et `/etc/hosts`. |
