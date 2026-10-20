@@ -158,14 +158,6 @@ By completing these projects, I am strengthening my understanding of:
 - Automation and scripting best practices.
 - Problem-solving within technical constraints.
 
-## 🔗 Useful Resources
-
-- [GNU Bash Manual](https://www.gnu.org/software/bash/manual/)
-- [Ubuntu Documentation](https://help.ubuntu.com/)
-- [Linux Man Pages](https://man7.org/linux/man-pages/)
-- [ShellCheck — Shell Script Analysis](https://www.shellcheck.net/)
-- [Holberton School](https://www.holbertonschool.com/)
-
 ## 🎓 Academic Context
 
 This repository is part of my learning journey at **Holberton School**, where I am developing practical skills in software engineering, Linux systems, and DevOps fundamentals.
