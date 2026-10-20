@@ -53,3 +53,5 @@ mkdir -p welcome/to/school
 
 **Repository:** `holbertonschool-shell`  
 **Directory:** `basics`
+
+### 📝 This documentation was written and structured with the assistance of artificial intelligence
