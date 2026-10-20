@@ -1,4 +1,7 @@
 # Holberton School — Shell
+🌐 **Language / Langue**
+
+🇬🇧 [English](README.md) | 🇫🇷 [Français](README.fr.md)
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
