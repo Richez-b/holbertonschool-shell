@@ -10,7 +10,7 @@
 
 ## 📖 About This Repository
 
-This repository contains a collection of **Shell scripting and system engineering projects** developed as part of the **Holberton School curriculum**.
+This repository contains a collection of **Shell scripting projects** developed as part of the **Holberton School**.
 
 It focuses on building a strong foundation in Unix/Linux environments, command-line operations, Bash scripting, file permissions, and system configuration.
 
@@ -157,12 +157,6 @@ By completing these projects, I am strengthening my understanding of:
 - Text processing using standard Unix utilities.
 - Automation and scripting best practices.
 - Problem-solving within technical constraints.
-
-## 🎓 Academic Context
-
-This repository is part of my learning journey at **Holberton School**, where I am developing practical skills in software engineering, Linux systems, and DevOps fundamentals.
-
-Each directory represents a dedicated learning module, and each script demonstrates the application of a specific Unix or Bash concept.
 
 ---
 
