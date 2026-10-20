@@ -275,3 +275,5 @@ Ce projet permet d'approfondir les connaissances suivantes :
 **Dépôt :** `holbertonschool-shell`  
 **Répertoire :** `init_files_variables_and_expansions`  
 **Projet :** Shell — Fichiers d'initialisation, variables et expansions
+
+### 📝 Cette documentation a été rédigée et structurée avec l'aide de l'intelligence artificielle
