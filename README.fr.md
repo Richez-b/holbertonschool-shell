@@ -153,14 +153,6 @@ La réalisation de ces projets me permet de renforcer mes connaissances dans les
 - Automatisation des tâches système.
 - Résolution de problèmes sous contraintes techniques.
 
-## 🔗 Ressources utiles
-
-- [Manuel officiel GNU Bash](https://www.gnu.org/software/bash/manual/)
-- [Documentation Ubuntu](https://help.ubuntu.com/)
-- [Pages de manuel Linux](https://man7.org/linux/man-pages/)
-- [ShellCheck — Analyse des scripts Shell](https://www.shellcheck.net/)
-- [Holberton School](https://www.holbertonschool.com/)
-
 ## 🎓 Contexte pédagogique
 
 Ce dépôt fait partie de mon parcours de formation à **Holberton School**, au cours duquel je développe des compétences pratiques en développement logiciel, administration Linux et fondamentaux DevOps.
