@@ -152,9 +152,3 @@ La réalisation de ces projets me permet de renforcer mes connaissances dans les
 - Traitement de texte avec les outils Unix.
 - Automatisation des tâches système.
 - Résolution de problèmes sous contraintes techniques.
-
----
-
-**Holberton School | Ingénierie Système & DevOps**
-
-*Apprendre Linux, une commande à la fois.*
