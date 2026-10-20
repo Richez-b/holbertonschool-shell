@@ -157,9 +157,3 @@ By completing these projects, I am strengthening my understanding of:
 - Text processing using standard Unix utilities.
 - Automation and scripting best practices.
 - Problem-solving within technical constraints.
-
----
-
-**Holberton School | System Engineering & DevOps**
-
-*Learning Linux, one command at a time.*
