@@ -275,3 +275,5 @@ This project strengthens practical knowledge of:
 **Repository:** `holbertonschool-shell`  
 **Directory:** `init_files_variables_and_expansions`  
 **Project:** Shell — Init Files, Variables and Expansions
+
+### 📝 This documentation was written and structured with the assistance of artificial intelligence
