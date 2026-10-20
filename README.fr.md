@@ -1,4 +1,4 @@
-# Holberton School — Ingénierie Système & DevOps
+# Holberton School — Shell
 
 ![Bash](https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -8,7 +8,7 @@
 
 ## 📖 Présentation
 
-Ce dépôt regroupe les projets de **programmation Shell et d'ingénierie système** réalisés dans le cadre de ma formation à **Holberton School**.
+Ce dépôt regroupe les projets de **programmation Shell** réalisés dans le cadre de ma formation à **Holberton School**.
 
 Il permet d'acquérir des bases solides dans l'utilisation des systèmes Unix/Linux, la manipulation du terminal, les scripts Bash, la gestion des permissions et la configuration de l'environnement système.
 
@@ -152,12 +152,6 @@ La réalisation de ces projets me permet de renforcer mes connaissances dans les
 - Traitement de texte avec les outils Unix.
 - Automatisation des tâches système.
 - Résolution de problèmes sous contraintes techniques.
-
-## 🎓 Contexte pédagogique
-
-Ce dépôt fait partie de mon parcours de formation à **Holberton School**, au cours duquel je développe des compétences pratiques en développement logiciel, administration Linux et fondamentaux DevOps.
-
-Chaque répertoire représente un module pédagogique, et chaque script met en application une notion spécifique du Shell Unix ou de Bash.
 
 ---
 
