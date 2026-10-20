@@ -249,25 +249,8 @@ This project strengthens practical knowledge of:
 - Shell scripting and command composition.
 - Data transformation using standard Unix tools.
 - Automation fundamentals and command-line efficiency.
-
-## 🔗 Useful Resources
-
-- [GNU Bash Reference Manual](https://www.gnu.org/software/bash/manual/)
-- [GNU Coreutils Documentation](https://www.gnu.org/software/coreutils/manual/)
-- [GNU Grep Manual](https://www.gnu.org/software/grep/manual/)
-- [Linux Manual Pages](https://man7.org/linux/man-pages/)
-- [Holberton School](https://www.holbertonschool.com/)
-
-## 🎓 Academic Context
-
-This project is part of the **Holberton School — System Engineering & DevOps** curriculum.
-
-It introduces essential tools for processing text, managing data streams, and automating operations within a Unix/Linux environment.
-
 ---
 
 **Repository:** `holbertonschool-shell`  
 **Directory:** `io_redirections_and_filters`  
 **Project:** Shell — I/O Redirections and Filters
-
-*Mastering Unix, one command at a time.*
