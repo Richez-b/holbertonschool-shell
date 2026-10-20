@@ -61,7 +61,7 @@ Tous les scripts respectent les exigences propres aux projets de Holberton Schoo
 
 | Exigence | Spécification |
 |---|---|
-| Système d'exploitation | Ubuntu 20.04 LTS |
+| Système d'exploitation | Ubuntu 26.04.1 LTS |
 | Interpréteur | Bash |
 | Shebang | `#!/bin/bash` |
 | Format | Texte brut avec fins de ligne Unix |
