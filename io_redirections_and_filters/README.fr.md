@@ -11,7 +11,7 @@
 
 ## 📖 Présentation du projet
 
-Ce projet fait partie du cursus **System Engineering & DevOps** de **Holberton School**.
+Ce projet fait partie de **Holberton School**.
 
 Il est consacré à la maîtrise des **flux d'entrée/sortie Unix, des opérateurs de redirection, des pipelines et des outils de traitement de texte en ligne de commande**.
 
