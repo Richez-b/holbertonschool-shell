@@ -254,3 +254,5 @@ This project strengthens practical knowledge of:
 **Repository:** `holbertonschool-shell`  
 **Directory:** `io_redirections_and_filters`  
 **Project:** Shell — I/O Redirections and Filters
+
+### 📝 This documentation was written and structured with the assistance of artificial intelligence
