@@ -29,24 +29,24 @@ Réalisé dans le cadre de la formation **Holberton School**, il permet d'acqué
 
 | Script | Description |
 |---|---|
-| `0-current_working_directory` | Affiche le chemin absolu du répertoire courant. |
-| `1-listit` | Liste le contenu du répertoire courant. |
-| `2-bring_me_home` | Permet de revenir au répertoire personnel. |
-| `3-listfiles` | Affiche les fichiers au format détaillé. |
-| `4-listmorefiles` | Affiche tous les fichiers, y compris les fichiers cachés. |
-| `5-listfilesdigitonly` | Affiche les fichiers avec les identifiants numériques des utilisateurs et groupes. |
-| `6-firstdirectory` | Crée le répertoire `/tmp/my_first_directory`. |
-| `7-movethatfile` | Déplace le fichier `betty` vers `/tmp/my_first_directory`. |
-| `8-firstdelete` | Supprime le fichier `betty`. |
-| `9-firstdirdeletion` | Supprime le répertoire `/tmp/my_first_directory`. |
-| `10-back` | Revient au répertoire précédent. |
-| `11-lists` | Liste les fichiers présents dans `.`, `..` et `/boot`. |
-| `12-file_type` | Affiche le type du fichier `/tmp/iamafile`. |
-| `13-symbolic_link` | Crée un lien symbolique vers `/bin/ls`. |
-| `14-copy_html` | Copie les fichiers HTML nouveaux ou modifiés vers le répertoire parent. |
-| `15-lets_move` | Déplace les fichiers commençant par une majuscule vers `/tmp/u`. |
-| `16-clean_emacs` | Supprime les fichiers se terminant par `~`. |
-| `17-tree` | Crée l'arborescence `welcome/to/school`. |
+| [`0-current_working_directory`](./0-current_working_directory) | Affiche le chemin absolu du répertoire courant. |
+| [`1-listit`](./1-listit)| Liste le contenu du répertoire courant. |
+| [`2-bring_me_home`](./2-bring_me_home) | Permet de revenir au répertoire personnel. |
+| [`3-listfiles`](./3-listfiles) | Affiche les fichiers au format détaillé. |
+| [`4-listmorefiles`](./4-listmorefiles) | Affiche tous les fichiers, y compris les fichiers cachés. |
+| [`5-listfilesdigitonly`](./5-listfilesdigitonly) | Affiche les fichiers avec les identifiants numériques des utilisateurs et groupes. |
+| [`6-firstdirectory`](./6-firstdirectory) | Crée le répertoire `/tmp/my_first_directory`. |
+| [`7-movethatfile`](./7-movethatfile) | Déplace le fichier `betty` vers `/tmp/my_first_directory`. |
+| [`8-firstdelete`](./8-firstdelete) | Supprime le fichier `betty`. |
+| [`9-firstdirdeletion`](./9-firstdirdeletion) | Supprime le répertoire `/tmp/my_first_directory`. |
+| [`10-back`](./10-back) | Revient au répertoire précédent. |
+| [`11-lists`](./11-lists) | Liste les fichiers présents dans `.`, `..` et `/boot`. |
+| [`12-file_type`](./12-file_type) | Affiche le type du fichier `/tmp/iamafile`. |
+| [`13-symbolic_link`](./13-symbolic_link) | Crée un lien symbolique vers `/bin/ls`. |
+| [`14-copy_html`](./14-copy_html) | Copie les fichiers HTML nouveaux ou modifiés vers le répertoire parent. |
+| [`15-lets_move`](./15-lets_move) | Déplace les fichiers commençant par une majuscule vers `/tmp/u`. |
+| [`16-clean_emacs`](./16-clean_emacs) | Supprime les fichiers se terminant par `~`. |
+| [`17-tree`](./17-tree) | Crée l'arborescence `welcome/to/school`. |
 
 ## 💻 Exemple — Exercice 17
 
