@@ -62,7 +62,7 @@ All scripts follow the project-specific requirements established by Holberton Sc
 
 | Requirement | Specification |
 |---|---|
-| Operating System | Ubuntu 20.04 LTS |
+| Operating System | Ubuntu 26.04.1 LTS |
 | Shell | Bash |
 | Shebang | `#!/bin/bash` |
 | File Format | Plain text with Unix-style line endings |
